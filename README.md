@@ -1,4 +1,4 @@
 # Assigment
 | NAME      | ID |
 | ----------- | ----------- |
-|    Kidusan|    Girma   |
+|    Kidusan   Girma| 0593/10    |
